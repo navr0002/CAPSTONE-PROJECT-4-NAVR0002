@@ -1,4 +1,4 @@
-Navdeep Singh Algonquin Cdi College North York Peoject: Pokemom
+Navreet Singh Algonquin Cdi College North York Peoject: Pokemom
 
 Project Overview: Pokedex Web Application The Pokedex Web Application is designed to provide users with detailed information about Pokémon. Users can search for Pokémon by name or number, view their types, abilities, and stats, and browse through different categories. The application dynamically fetches data from an API and displays it in an organized, interactive format. Additionally, it features a responsive design to ensure usability across various devices, from desktops to mobile phones.
 
